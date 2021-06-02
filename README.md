@@ -5,7 +5,7 @@ L'application mobile Android **COVID PERMIT** permet à l'utilisateur de se cré
 Cette application a été conçu sur un Pixel 3A avec l'API 27 de Android.
 
 Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de données qui fonctionnent en tout temps.
-L'application est divisé en trois parties: ministère (back-end) - permit covid (back-end) - application android (front-end)
+<br />L'application est divisé en trois parties: ministère (back-end) - permit covid (back-end) - application android (front-end)
 Dans l'environement Android, localhost devient 10.0.2.2 pour référer à la machine exécutant l'émulateur.<br />
 <br />
 **Les dépendances utilisées:**
