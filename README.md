@@ -30,7 +30,7 @@ Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit 
     - Contient des informations sur les citoyens (e-mail, password, etc.) et sur les permis (date de renouvelement, code qr, etc.).
     
 **Instructions**
-Pour l'utilisation de l'application, lors de l'ouverture, l'utilisateur aura le choix de s'authentifier ou bien s'enregistrer.
+<br />Pour l'utilisation de l'application, lors de l'ouverture, l'utilisateur aura le choix de s'authentifier ou bien s'enregistrer.
 <br />Lors de l'enregistrement, l'utilisateur devra entrer un numéro d'assurance maladie valide ainsi que remplir tous les champs.
 <br />Lorsque l'utilisateur a terminé, il suffit d'appuyer sur le bouton "REGISTER" et l'application redirigera celui-ci au menu d'authentification.
 <br />Lorsque l'e-mail et le mot de passe est entrés, l'utilisateur devrai appuyer sur le bouton "LOGIN" pour être rediriger vers son espace privé.
