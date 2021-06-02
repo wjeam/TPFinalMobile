@@ -17,10 +17,13 @@ Les dépendances utilisées:
   - Android
 
 Pour la vérification du numéro d'assurance maladie, l'application contacte:
+
   Base de données #1:
     - H2 (accessible par l'url http://localhost:9797/minister à l'aide de l'identifiant { username: username password: password } )
     - Contient des informations sur les citoyens (nom, prénom, numéro d'assurance maladie, etc.)
+    
 Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit électronique:
+
   Base de données #2:
     - MySQL (accessible par l'url jdbc:mysql://localhost:3306/tpfinal à l'aide de l'identifiant { username: root password: toto12345@ } )
     - Contient des informations sur les citoyens (e-mail, password, etc.) et sur les permis (date de renouvelement, code qr, etc.).
