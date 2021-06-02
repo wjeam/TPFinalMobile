@@ -1,6 +1,6 @@
 # TPFinalMobile
 
-L'application mobile Android permit à l'utilisateur de se créer un compte à l'aide de son numéro d'assurance maladie pour obtenir un permit de type vaccin ou bien test.
+L'application mobile Android **COVID PERMIT** permet à l'utilisateur de se créer un compte à l'aide de son numéro d'assurance maladie pour obtenir un permit de type vaccin ou bien test.
 Cette application a été conçu sur un Pixel 3A avec l'API 27 de Android.
 
 Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de données qui fonctionnent en tout temps.
@@ -24,7 +24,7 @@ Pour la vérification du numéro d'assurance maladie, l'application contacte:
     
 Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit électronique:
 
-  Base de données #2:
+  **Base de données #2:**
     - MySQL (accessible par l'url jdbc:mysql://localhost:3306/tpfinal à l'aide de l'identifiant { username: root password: toto12345@ } )
     - Contient des informations sur les citoyens (e-mail, password, etc.) et sur les permis (date de renouvelement, code qr, etc.).
   
