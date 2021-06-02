@@ -5,7 +5,8 @@ Cette application a été conçu sur un Pixel 3A avec l'API 27 de Android.
 
 Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de données qui fonctionnent en tout temps.
 Dans l'environement Android, localhost devient 10.0.2.2 pour référer à la machine exécutant l'émulateur.<br />
-Les dépendances utilisées:
+<br />
+**Les dépendances utilisées:**
   - commons-io
   - commons-lang
   - MySQL
