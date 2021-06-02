@@ -1,6 +1,6 @@
 # TPFinalMobile
 
-L'application mobile Android **COVID PERMIT** permet à l'utilisateur de se créer un compte à l'aide de son numéro d'assurance maladie pour obtenir un permit de type vaccin ou bien test.
+L'application mobile Android **COVID PERMIT** permet à l'utilisateur de se créer un compte à l'aide de son numéro d'assurance maladie pour obtenir un permit de type vaccin ou bien test.<br />
 Cette application a été conçu sur un Pixel 3A avec l'API 27 de Android.
 
 Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de données qui fonctionnent en tout temps.
