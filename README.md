@@ -36,3 +36,7 @@ Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit 
 <br />Lorsque l'e-mail et le mot de passe est entrés, l'utilisateur devrai appuyer sur le bouton "LOGIN" pour être rediriger vers son espace privé.
 <br />L'utilisateur pourra ensuite voir tous ses informations sur son permit ainsi que sur lui-même.
 <br />Les deux boutons situés en bas à droit de l'écran offriront la possibilité à l'utilisateur d'envoyer son permit via e-mail sous forme d'image et de PDF ou bien renouveler son permit si celui-ci possède un permit test expiré.
+
+**UN COMPTE A ÉTÉ CRÉÉ D'AVANCE AVEC UN PERMIT TEST POUR LA FACILITÉ**
+**USERNAME: reda@reda.com**
+**PASSWORD: reda**
