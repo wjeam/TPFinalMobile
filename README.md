@@ -18,7 +18,7 @@ Les dépendances utilisées:
 
 Pour la vérification du numéro d'assurance maladie, l'application contacte:
 
-  Base de données #1:
+  **Base de données #1:**
     - H2 (accessible par l'url http://localhost:9797/minister à l'aide de l'identifiant { username: username password: password } )
     - Contient des informations sur les citoyens (nom, prénom, numéro d'assurance maladie, etc.)
     
