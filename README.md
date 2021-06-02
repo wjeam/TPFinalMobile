@@ -28,7 +28,6 @@ Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit 
   **Base de données #2:**
     - MySQL (accessible par l'url jdbc:mysql://localhost:3306/tpfinal à l'aide de l'identifiant {username: root password: toto12345@})<br />
     - Contient des informations sur les citoyens (e-mail, password, etc.) et sur les permis (date de renouvelement, code qr, etc.).
-  
 <br />Pour l'utilisation de l'application, lors de l'ouverture, l'utilisateur aura le choix de s'authentifier ou bien s'enregistrer.
 <br />Lors de l'enregistrement, l'utilisateur devra entrer un numéro d'assurance maladie valide ainsi que remplir tous les champs.
 <br />Lorsque l'utilisateur a terminé, il suffit d'appuyer sur le bouton "REGISTER" et l'application redirigera celui-ci au menu d'authentification.
