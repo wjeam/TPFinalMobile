@@ -27,14 +27,14 @@ Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de 
 <br />
   **Base de données #1:**
   <br />
-      - H2 (accessible par l'url http://localhost:9797/minister à l'aide de l'identifiant {username: username password: password})<br />
+      - H2 (accessible par l'url http://138.197.169.107:9797/minister à l'aide de l'identifiant {username: username password: password})<br />
       - Contient des informations sur les citoyens (nom, prénom, numéro d'assurance maladie, etc.)
     
 *Pour la création de permit, d'utilisateurs et de renouvelement/envoi de permit électronique:*
 
   **Base de données #2:**
   <br />
-      - MySQL (accessible par l'url jdbc:mysql://localhost:3306/tpfinal à l'aide de l'identifiant {username: root password: toto12345@})<br />
+      - MySQL (accessible par l'url jdbc:mysql://138.197.169.107:3306/tpfinal à l'aide de l'identifiant {username: root password: toto12345@})<br />
       - Contient des informations sur les citoyens (e-mail, password, etc.) et sur les permis (date de renouvelement, code qr, etc.).
     
 # Instructions
