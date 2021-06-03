@@ -50,8 +50,8 @@ Pour l'utilisation de l'application, lors de l'ouverture, l'utilisateur aura le 
 <br />
 <br />Les deux boutons situés en bas à droit de l'écran offriront la possibilité à l'utilisateur d'envoyer son permit via e-mail sous forme d'image et de PDF ou bien renouveler son permit si celui-ci possède un permit test expiré.
 
-<br />La petite flèche située en bas à gauche de l'écran permet à l'utilisateur de retourner à l'activité précédente.
+La petite flèche située en bas à gauche de l'écran permet à l'utilisateur de retourner à l'activité précédente.
 # 
 *UN COMPTE A ÉTÉ CRÉÉ D'AVANCE AVEC UN PERMIT TEST POUR LA FACILITÉ*
-<br />**USERNAME: reda@reda.com**
-<br />**PASSWORD: reda**
+<br />**Username: reda@reda.com**
+<br />**Password: reda**
