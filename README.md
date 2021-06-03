@@ -11,8 +11,8 @@ Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de 
 <br />Dans l'environement Android, localhost devient 10.0.2.2 pour référer à la machine exécutant l'émulateur.<br />
 <br />
 **Les dépendances utilisées:**
-  - commons-io
-  - commons-lang
+  - Commons-io
+  - Commons-lang
   - MySQL
   - H2
   - JUnit
@@ -20,6 +20,7 @@ Pour ce qui est du déploiement de l'application, il doit y avoir deux bases de 
   - Zxing
   - iTextPDF
   - Android
+  - Java 8
 
 *Pour la vérification du numéro d'assurance maladie, l'application contacte:*
 <br />
